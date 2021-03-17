@@ -4,7 +4,7 @@
 
 Les données disponibles en téléchargement dans ce dossier sont issues des travaux de recherche réalisés dans le cadre de l'ANR [MApUCE.](http://www.cnrm.meteo.fr/spip.php?article787)
 
-Elles sont fournies en accès libr, licence [ODbL](https://opendatacommons.org/licenses/odbl/1.0/).
+Elles sont fournies en accès libre, licence [ODbL](https://opendatacommons.org/licenses/odbl/1.0/).
 
 Les données sont diffusées à deux echelles spatiales : les Unités Spatiales de Référence (USR) et l'Ilot de Chaleur Urbain (ICU).
 
